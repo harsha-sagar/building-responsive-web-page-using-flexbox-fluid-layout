@@ -5,10 +5,6 @@
 A simple responsive web page built using flexbox fluid layout.
 Used sass (.scss by the way) stylesheet (this scss files eventually gets compiled, compressed for production)
 
-## Demo
-
-https://magnificent-swan-834395.netlify.app/
-
 ## Lessons Learned
 
 - using flexbox
